@@ -72,8 +72,10 @@ O projeto demonstra o uso de:
 ## Estrutura do projeto
 - **Program.cs** → Contém o menu, lógica principal e métodos de interação com o usuário  
 - **Biblioteca.cs** → Gerencia a lista de materiais e operações de empréstimo/devolução  
-- **Livro.cs / Revista.cs** → Representam os tipos de materiais da biblioteca  
-- **Material.cs (classe base)** → Define propriedades comuns a livros e revistas  
+- **MaterialBiblioteca.cs** → Classe base que define propriedades comuns a livros e revistas  
+- **Livro.cs** → Representa livros na biblioteca  
+- **Revista.cs** → Representa revistas na biblioteca  
+- **projetoFinal.csproj** → Arquivo de configuração do projeto .NET 
 
 ---
 
