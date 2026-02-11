@@ -36,8 +36,10 @@ O projeto demonstra o uso de:
 ## Como obter o projeto
 
 ### Opção 1 — Git (recomendado)
+```bash
 - git clone https://github.com/seu-usuario/seu-repo.git
 - cd seu-repo
+```
 
 ### Opção 2 — Download
 - Baixe o **.zip** do repositório  
